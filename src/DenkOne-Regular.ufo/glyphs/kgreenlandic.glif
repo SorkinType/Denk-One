@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="1">
+  <advance width="1005"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="835" y="0" type="curve" smooth="yes"/>
+      <point x="939" y="0"/>
+      <point x="956" y="8"/>
+      <point x="956" y="32" type="curve" smooth="yes"/>
+      <point x="956" y="47"/>
+      <point x="946" y="68"/>
+      <point x="929" y="101" type="curve" smooth="yes"/>
+      <point x="745" y="460" type="line"/>
+      <point x="951" y="1094" type="line" smooth="yes"/>
+      <point x="959" y="1119"/>
+      <point x="965" y="1138"/>
+      <point x="965" y="1153" type="curve" smooth="yes"/>
+      <point x="965" y="1197"/>
+      <point x="949" y="1202"/>
+      <point x="825" y="1202" type="curve" smooth="yes"/>
+      <point x="696" y="1202"/>
+      <point x="673" y="1191"/>
+      <point x="659" y="1137" type="curve" smooth="yes"/>
+      <point x="481" y="460" type="line"/>
+      <point x="695" y="57" type="line" smooth="yes"/>
+      <point x="720" y="10"/>
+      <point x="731" y="0"/>
+    </contour>
+    <contour>
+      <point x="542" y="-170" type="move" name="btm"/>
+    </contour>
+    <contour>
+      <point x="542" y="1700" type="move" name="top"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+</glyph>

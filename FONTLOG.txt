@@ -1,0 +1,62 @@
+FONTLOG for the Denk One font
+
+This file provides detailed information on Denk One Font Software.This information should be distributed along with the Denk One font and any derivative works.
+
+Basic Font Information
+
+Denk is a medium contrast display sans serif. It was inspired by a hand painted German sign. Inder has been carefully adjusted to the restrictions of the screen. Despite having display characteristics Denk can be used in a wide range of sizes.
+
+Denk One is a Unicode typeface family that supports languages that use the Latin script and its variants, and could be expanded.
+
+More specifically, this release supports the following codepages: 
+Latin-1, Latin-2, Turkish, Windows Baltic, Windows Vietnamese, Macintosh Character Set
+
+The following Unicode ranges are supported:
+Basic Latin, Latin-1 Supplement, Latin Extended-A, Latin Extended-B, IPA Exetnsions, 
+Spacing Modifier letters, Combining Diacritical Marks, Greek, Devanagari, 
+Latin Extended Additional, General Puctuation, Superscripts and Subscripts, 
+Currency Symbols, Letterlike Symbols, Number Forms, Arrows, Mathematical Operators, 
+Geometric Shapes, Miscelanious Symbols, Dingbats, Alphabetic presentation forms
+
+There are four source files:
+
+1. DenkOne-Regular.vfb Original Source Files with 
+   contour overlaps
+
+2. DenkOne-Regular.ufo with contour overlaps
+
+4. DenkOne-Regular.otf PostScript outlines with merged contours OTF-CFF font.
+
+To contribute to the project contact Eben Sorkin at sorkineben@gmail.com
+
+ChangeLog
+
+29 Jan 2015 (Eben Sorkin) Fjalla One v1.003
+- Made the names table only use PID 3 (not 1) for a file size reduction 
+- Mastered VBF to TTF and other formats.
+- hinted font Using TTFAutohint version 1.3
+
+20 Dec 2014 (Eben Sorkin) Fjalla One v1.002
+- Added glyphs to suppport more langauges and uses
+
+24 Nov 2012 (Eben Sorkin) Fjalla One v1.001
+- Adjusted outlines and v metrics to improve windows Post-TTFA rendering.
+- Mastered VBF to TTF and other formats.
+- hinted font Using TTFAutohint version 0.92
+
+25 Oct 2012 (Irina Smirnova) Fjalla One v1.000
+- Completed first complete version of Fjalla One in Fontlab ( VBF format )
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address
+(if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Irina Smirnova
+E: irina.v.sm@gmail.com
+D: Designer
+
+N: Eben Sorkin
+E: sorkineben@gmail.com
+W: www.sorkintype.com
+D: Mastering
