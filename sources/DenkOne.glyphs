@@ -1,9 +1,6 @@
 {
 .appVersion = "3148";
 .formatVersion = 3;
-DisplayStrings = (
-H
-);
 classes = (
 {
 automatic = 1;
@@ -46,7 +43,7 @@ value = 1;
 }
 );
 date = "2012-12-24 11:58:53 +0000";
-familyName = Denk;
+familyName = "Denk One";
 featurePrefixes = (
 {
 automatic = 1;
