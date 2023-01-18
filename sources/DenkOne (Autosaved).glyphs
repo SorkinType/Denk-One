@@ -9660,7 +9660,9 @@ width = 1391;
 unicode = 456;
 },
 {
+color = 6;
 glyphname = Lmacronbelow;
+lastChange = "2023-01-18 15:11:53 +0000";
 layers = (
 {
 layerId = "3E12A9BE-1094-4827-ACE3-4E9390329AA7";
@@ -9676,6 +9678,7 @@ width = 820;
 }
 );
 unicode = 7738;
+changeCount = 1;
 },
 {
 glyphname = Lslash;
