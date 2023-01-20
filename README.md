@@ -4,7 +4,7 @@
 
 Denk is a medium contrast display sans serif. It was inspired by a hand painted German sign. Inder has been carefully adjusted to the restrictions of the screen. Despite having display characteristics Denk can be used in a wide range of sizes.
 
-Denk One is a Unicode typeface family that supports languages that use the Latin script and its variants, and could be expanded.
+Denk One is a Unicode typeface family that supports languages that use the Latin script and its variants, and could be expanded even further with weights widths and in terms of Language support.
 
 According to Hyperglot, DenkOne has base support for:
 
